@@ -1,4 +1,4 @@
-# sass_showcase
+# sass showcase
 Showcase of my sass-Skills
 hosted on AWS
 
